@@ -1,0 +1,25 @@
+﻿.author {
+    font-size: 18pt;
+    color: black;
+    width: 27%;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.text {
+    font-size: 16pt;
+    color: black;
+    width: 55%;
+    text-align: left;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+}
+
+.moretext {
+    height: 300px;
+}
+
+#inputs {
+    width: 500px;
+    margin: auto;
+}

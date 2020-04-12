@@ -1,0 +1,11 @@
+﻿body {
+    font-size: 24pt;
+    font-weight: bold;
+}
+
+#signup_fields {
+    width: 30%;
+    margin: auto;
+    margin-top: 10px;
+    text-align: center;
+}
